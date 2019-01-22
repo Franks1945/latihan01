@@ -15,6 +15,8 @@ Git clone [url], perintah untuk membuat working directory yang diambil dari repo
 Git remote add origin [url], perintah untuk menambahkan remote server/repository pada local repository.
 
 #CARA MENGGUNAKAN GIT 
+
+
 1.Buka website Github https://github.com
 
 2.Setelah membuat akunya,login dengan akun github yang tadi kamu buat.
